@@ -4,6 +4,11 @@ black
 white
 violet
 
+print("feature b")
+
+lst = ["blue", "red", "green"]
+for j in lst:
+  print(j)
 
 hello, this is from b branch
 hi, add a line here from feature a
