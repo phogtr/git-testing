@@ -6,9 +6,6 @@ green
 black
 white
 violet
-teal
-orange
-yellow
 
 
 hello, this is from b branch
