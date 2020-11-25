@@ -4,6 +4,12 @@ black
 white
 violet
 
+print("feature-a")
+name = a 
+
+arr = ["black", "white", "violet"]
+for i in arr:
+  print(i)
 
 hello, this is from b branch
 hi, add a line here from feature a
