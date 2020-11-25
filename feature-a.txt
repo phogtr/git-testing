@@ -13,3 +13,6 @@ new!
 duck
 chicken
 cow
+
+for i in range(10):
+  print(i)
