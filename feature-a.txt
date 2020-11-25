@@ -1,9 +1,0 @@
-This is feature-a branch
-
-dog
-cat
-puffin
-lizard
-dragon
-hamster
-horse
